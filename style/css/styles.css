@@ -28,7 +28,7 @@ body {
 }
 
 .form-wrapper h1 {
-  background: #e71313;
+  background: #5a1414;
   padding: 20px 30px 15px 30px;
   margin: -20px -20px 20px -20px;
   border-radius: 10px 10px 0 0;
@@ -40,7 +40,7 @@ body {
   box-shadow: 24px 15px 19px -7px rgba(59, 53, 53, 0.74);
   -webkit-box-shadow: 24px 15px 19px -7px rgba(59, 53, 53, 0.74);
   -moz-box-shadow: 24px 15px 19px -7px rgba(59, 53, 53, 0.74);
-  border: 1px solid#e71313;
+  border: 1px solid#962c2c;
 }
 
 .form-wrapper h1>span {
@@ -80,7 +80,7 @@ body {
 
 .form-wrapper .section {
   font: normal 20px "Bitter", serif;
-  color: #e71313;
+  color: #aa6868;
   margin-bottom: 5px;
 }
 
